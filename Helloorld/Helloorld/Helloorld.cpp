@@ -6,7 +6,11 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello Wolrd");
+	for (int i=0;i<100;i++)
+	{
+		printf("Hello Wolrd \n");	
+	}
+
 	return 0;
 }
 
